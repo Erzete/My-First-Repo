@@ -4,4 +4,4 @@ NPM     : 2106638532
 
 Kelas   : B
 
-Hobi    : Nganggur
+Hobi    : Makan
